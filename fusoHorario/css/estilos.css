@@ -1,0 +1,7 @@
+img {
+    width: 200px;
+    display: flex;
+    float:left;
+    margin: 20-px;
+    border: transparent;
+}

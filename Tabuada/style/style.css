@@ -1,0 +1,13 @@
+img {
+    float: left;
+    display: flex;
+    width: 270px;
+}
+
+h1 {
+    border-bottom-style: inset;
+}
+
+pre { 
+    font-size: 1.2em;
+}
